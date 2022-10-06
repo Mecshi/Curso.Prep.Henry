@@ -323,7 +323,7 @@ function doWhile(numero) {
     var numero = numero + 5;
     
 
-  } while (i <= 8)
+  } while (i <= 8);
   
   return numero;
 }
