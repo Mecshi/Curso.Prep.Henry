@@ -318,7 +318,8 @@ function esVocal(letra){
     } else {
       return "Dato incorrecto";
       
-    }
+      } 
+      
   } else {
     return "Dato incorrecto";
   }
